@@ -1,0 +1,10 @@
+h1{color:lightblue;font-size: 60px}
+#lightblue {color:lightblue; text-decoration: underline; }
+
+h2{color:white;font-size: 20px}
+
+h2.lightblue {color: lightblue; font-size: 20px}
+
+
+body {text-align: center;
+background-color: black;}
